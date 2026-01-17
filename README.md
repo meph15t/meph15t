@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7C7CFF"/>
-  me@mephist.is-a.dev
+  me@mephist.is-a.dev <br>
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7C7CFF"/>
   meph15t
 </p>
