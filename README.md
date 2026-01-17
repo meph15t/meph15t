@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7C7CFF"/>
 </p>
 <p align="center">
-  Self-taught offensive security researcher working on independent tools and experiments.<br>
-  Focused on understanding how systems fail, how malware operates, and how threats evolve.
+  self taught offensive security researcher, pentester, and malware analyst.
+  I build tools, break systems, analyze threats, and document what matters.
 </p>
 ---
 <h3 align="center">Specialties</h3>
@@ -17,7 +17,7 @@
 <p align="center">
   Offensive Security & Pentesting<br>
   Malware Analysis & Reverse Engineering<br>
-  OSINT & Threat Intelligence
+  OSINT & Intelligence Gathering
 </p>
 ---
 <h3 align="center">Contact</h3>
@@ -25,4 +25,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7C7CFF"/>
   me@mephist.is-a.dev
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7C7CFF"/>
+  meph15t
 </p>
